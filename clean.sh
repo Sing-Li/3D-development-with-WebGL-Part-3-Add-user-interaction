@@ -1,0 +1,2 @@
+rm *.zip
+rm *.tgz
